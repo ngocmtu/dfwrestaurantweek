@@ -1,0 +1,72 @@
+"menu": {
+    "first_course":[
+        {
+            "main":"",
+            "description":"",
+            "wine_pairing":"",
+            "wine_price":""
+        }
+    ],
+    "second_course":[
+        {
+            "main":"",
+            "description":"",
+            "wine_pairing":"",
+            "wine_price":""
+        }
+    ],
+    "third_course":[
+        {
+            "main":"",
+            "description":"",
+            "wine_pairing":"",
+            "wine_price":""
+        }
+    ],
+    "fourth_course":[
+        {
+            "main":"",
+            "description":"",
+            "price":"",
+            "wine_pairing":"",
+            "wine_price":""
+        }
+    ]
+}, 
+"lunch_menu":{
+    "first_course": [
+        {
+            "main":"",
+            "description":"",
+            "wine_pairing":"",
+            "wine_price":""
+        }
+    ], 
+    "second_course": [
+        {
+            "main":"",
+            "description":"",
+            "wine_pairing":"",
+            "wine_price":""
+        }
+    ]
+},
+"one_price_wine_pairing":"",
+"one_price_wine_pairing_lunch":"",
+
+
+
+
+
+"one_price_wine_pairing":{
+        "price":65,
+        "quantity":2,
+        "selection":[
+            "Rose d'Anjou",
+            "Côtes du Rhône",
+            "Bordeaux Rouge",
+            "Chardonnay",
+            "Bordeaux Blanc"
+        ]
+    }
+"one_price_whiskey_pairing"

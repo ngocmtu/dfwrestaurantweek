@@ -1,0 +1,4140 @@
+{	
+	"restaurants":[
+		{
+            "lunch_menu": {
+                "second_course": [
+                    {
+                        "main": "New York Cheesecake", 
+                        "wine_price": "", 
+                        "description": "Raspberry Reduction / Whipped Cream", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "main": "House-Made Doughnut Holes", 
+                        "wine_price": "", 
+                        "description": "Mixed Berry Jam / Chocolate Ganache / Powdered Sugar", 
+                        "wine_pairing": ""
+                    }
+                ], 
+                "first_course": [
+                    {
+                        "main": "Pub Steak and Fries", 
+                        "wine_price": "", 
+                        "description": "Herb Marinated Angus Beef / Herbed Fries", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "main": "Salmon", 
+                        "wine_price": "", 
+                        "description": "Mediterranean Spiced / Vegetable Quinoa / Lemon and Fresh Dill Cream", 
+                        "wine_pairing": ""
+                    }
+                ]
+            }, 
+            "cuisine": [
+                "American"
+            ], 
+            "name": "3 Eleven Kitchen & Cocktails", 
+            "first_address": "311 N. Market Street", 
+            "phone": "214-744-1423", 
+            "menu": {
+                "second_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "Steak and Frites", 
+                        "description": "Ribeye / Fingerling Potatoes / Cognac and Peppercorn Cream Sauce", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Pan Seared Gulf Shrimp", 
+                        "description": "Browned Butter / Turmeric / Jicama Pear Slaw / Sweet Chili and Garlic Glaze", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Surf and Turf", 
+                        "description": "4 oz. Center Cut Filet / Bay Scallops / Wild Mushrooms / Smashed Potatoes / Bourbon and Sweet Onion Demi-Glace", 
+                        "wine_pairing": ""
+                    }
+                ], 
+                "fourth_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "", 
+                        "description": "", 
+                        "wine_pairing": ""
+                    }
+                ], 
+                "first_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "Crispy Calamari", 
+                        "description": "Spicy Smoked Tomato Sauce / Shaved Parmesan / Fresh Flat Leaf Parsley", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Giant Crab Cake", 
+                        "description": "8 oz. Lump Crab Meat / Panko Bread Crumbs / Spiced Sriracha Aioli", 
+                        "wine_pairing": ""
+                    }
+                ], 
+                "third_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "Flourless Chocolate Torte", 
+                        "description": "Macerated Strawberries / Whipped Cream", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Southern Bread Pudding", 
+                        "description": "Rum Raisin Caramel Glaze", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "New York Cheesecake", 
+                        "description": "Raspberry Reduction / Whipped Cream", 
+                        "wine_pairing": ""
+                    }
+                ]
+            }, 
+            "price": "$39", 
+            "_4th_course": false, 
+            "participating_week": "1 Week", 
+            "lunch": true, 
+            "second_address": {
+                "city": "Dallas", 
+                "full": "Dallas, Texas75202"
+            }, 
+            "one_price_wine_pairing": 0
+        },{
+            "cuisine": [
+                "Seafood"
+            ], 
+            "name": "Dallas Fish Market", 
+            "first_address": "1501 Main Street", 
+            "phone": "214-744-3474", 
+            "menu": {
+                "second_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "Tempura Soft Shell Crab", 
+                        "description": "soba noodles, charcoal grilled garlic chieve sousbise, coriander blossoms", 
+                        "wine_pairing": "2016 Landmark 'Overlook' Chardonnay, Sonoma County"
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Seared Salmon", 
+                        "description": "mashed wasabi peas, pickled honshimeji mushrooms", 
+                        "wine_pairing": "2015 Pascale Matrot Bourgogne Blanc, Burgundy-France"
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Blackened Flat Iron", 
+                        "description": "basmati rice, green onion, cashews, soy emulsion", 
+                        "wine_pairing": "2010 Imprimata, McLaren Vale-Australia"
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Iceland Arctic Char", 
+                        "description": "baby bok choy, celery root puree, white soy-orange butter", 
+                        "wine_pairing": "2016 Echo Bay Sauvignon Blanc, Marlborough-New Zealand"
+                    }
+                ], 
+                "fourth_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "", 
+                        "description": "", 
+                        "wine_pairing": ""
+                    }
+                ], 
+                "first_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "Smoked Salmon & Pea Shoot Salad", 
+                        "description": "green goddess dressing, smoked trout roe, wasabi peas", 
+                        "wine_pairing": "Avisii Prosecco NV, Veneto-New Italy"
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Gazpacho Soup", 
+                        "description": "citrus crab and green apple", 
+                        "wine_pairing": "2016 Chateau de la Ragotiere Muscadet Vielles Vignes, Muscadet de Sevre-France"
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Shrimp Ceviche", 
+                        "description": "pickled watermelon, green apple sorbet, serrano", 
+                        "wine_pairing": "2017 Argiolas \"Costamolino\", Vermentino di Sardegna-Italy"
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Marinated Gold Beets", 
+                        "description": "horseradish yogurt, pickled fresno garlic relish, spicy peanuts", 
+                        "wine_pairing": "2017 Campuget Rose, Costieres de Nimes-France"
+                    }
+                ], 
+                "third_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "Blueberry Ginger Creme Brulee", 
+                        "description": "candied watermelon rind", 
+                        "wine_pairing": "2012 NxNW Riesling, Columbia Valley"
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Olive Oil Cake", 
+                        "description": "strawberry compote, citrus mascarpone", 
+                        "wine_pairing": "2011 Chateau d'Armajan des Ornes, Sauternes-France"
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Chocolate Crunch Tart", 
+                        "description": "chocolate crumble, chocolate mousse, cocao feuillentine", 
+                        "wine_pairing": "Taylor 'Fladgate' Ruby Port, Portugal"
+                    }
+                ]
+            }, 
+            "price": "$39", 
+            "_4th_course": false, 
+            "participating_week": "1 Week", 
+            "lunch": false, 
+            "second_address": {
+                "city": "Dallas", 
+                "full": "Dallas, Texas 75201"
+            }, 
+            "one_price_wine_pairing": 25
+        },{
+		    "phone": "214-736-7300", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Dallas Chop House", 
+		    "first_address": "1717 Main Street", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-740-4001", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Dakota's Steakhouse", 
+		    "first_address": "600 N. Akard St.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-771-1001", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Rockwall", 
+		        "full": "Rockwall, Texas 75087"
+		    }, 
+		    "name": "Culpepper Steak House", 
+		    "first_address": "309 East I-30", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)888-0050", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX 75225"
+		    }, 
+		    "name": "Crudo Italian", 
+		    "first_address": "8411 Preston Road Suite 132.", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-220-0348", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Corrientes 348 Argentinian Steakhouse", 
+		    "first_address": "1807 Ross Ave., Suite 200", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-397-4111", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75219"
+		    }, 
+		    "name": "Cook Hall", 
+		    "first_address": "2440 Victory Park Lane", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+            "lunch_menu": {
+                "second_course": [
+                    {
+                        "main": "Pork Chop", 
+                        "wine_price": "", 
+                        "description": "10 ounce bone-in center cut pork chop, potato pur\u00e9e, chipotle maple glaze, cinnamon spiced apples, crispy buttermilk onion strings", 
+                        "wine_pairing": ""
+                    }
+                ], 
+                "first_course": [
+                    {
+                        "main": "New England Clam Chowder", 
+                        "wine_price": "", 
+                        "description": "Ocean clams, Nueske\u2019s applewood-smoked bacon, oyster crackers", 
+                        "wine_pairing": ""
+                    }
+                ]
+            }, 
+            "cuisine": [
+                "American"
+            ], 
+            "name": "City Works Eatery & Pour House - Frisco", 
+            "first_address": "3680 The Star Boulevard, Suite 1300", 
+            "phone": "469-850-1850", 
+            "menu": {
+                "second_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "Pork Chop", 
+                        "description": "10 ounce bone-in center cut pork chop, potato pur\u00e9e, chipotle maple glaze, cinnamon spiced apples, crispy buttermilk onion strings", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "BBQ Ribs", 
+                        "description": "Hardwood-smoked full rack baby back ribs, housemade BBQ sauce, mascarpone creamed corn, coleslaw, Idaho thick-cut fries", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Salmon", 
+                        "description": "Pan-seared salmon, olive oil poached fingerling potatoes, grilled corn, Brussels sprouts, asparagus, butternut squash, fava bean and grape tomato succotash, asparagus pure\u0301e, lemon butter", 
+                        "wine_pairing": ""
+                    }
+                ], 
+                "fourth_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "", 
+                        "description": "", 
+                        "wine_pairing": ""
+                    }
+                ], 
+                "first_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "New England Clam Chowder", 
+                        "description": "Ocean clams, Nueske\u2019s applewood-smoked bacon, oyster crackers", 
+                        "wine_pairing": ""
+                    }, 
+                    {
+                        "wine_price": "", 
+                        "main": "Beet Salad", 
+                        "description": "Roasted beets, chili spiced pecans, baby arugula, shaved fennel, goat cheese, charred orange vinaigrette", 
+                        "wine_pairing": ""
+                    }
+                ], 
+                "third_course": [
+                    {
+                        "wine_price": "", 
+                        "main": "Butterscotch Bread Pudding", 
+                        "description": "Brioche bread, vanilla bean custard, vanilla bean ice cream, butterscotch sauce", 
+                        "wine_pairing": ""
+                    }
+                ]
+            }, 
+            "price": "$39", 
+            "_4th_course": false, 
+            "participating_week": "1 Week", 
+            "lunch": true, 
+            "second_address": {
+                "city": "Frisco", 
+                "full": "Frisco, Texas 75034"
+            }, 
+            "one_price_wine_pairing": false
+        },{
+		    "phone": "214-651-3686", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75202"
+		    }, 
+		    "name": "City Hall Bistro", 
+		    "first_address": "1321 Commerce Street", 
+		    "cuisine": [
+		        "French", 
+		        "European"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+            "phone": "972-934-2467", 
+            "lunch": false, 
+            "second_address": {
+                "city": "Dallas", 
+                "full": "Dallas, Texas 75254"
+            }, 
+            "name": "Chamberlain's Steak and Chop House", 
+            "first_address": "5330 Beltline Road", 
+            "cuisine": [
+                "Steak"
+            ], 
+            "menu": {
+                "first_course":[
+                    {
+                        "main":"Summer Pea Soup, Smoked Pork Belly, Micro Greens and Truffle Croutons",
+                        "description":"",
+                        "wine_pairing":"Sartori Pinot Grigio, Italy 2016",
+                        "wine_price":9
+                    },{
+                        "main":"Pistachio Crusted Goats Cheese, Baby Spinach and Arugula Salad with Marinated Strawberries and Balsamic Cherry Vinaigrette",
+                        "description":"",
+                        "wine_pairing":"Rodney Strong “Chalk Hill” Chardonnay, Sonoma 2015",
+                        "wine_price":9
+                    },{
+                        "main":"Prime Beef Tartare with Truffle Aioli, Baby Arugula and Pretzel Crostini",
+                        "description":"",
+                        "wine_pairing":"E.Guigal Cotes du Rhone, France 2014",
+                        "wine_price":9
+                    },{
+                        "main":"Salad of Texas Watermelon, Baby Heirloom Tomatoes, Fresh Mint, Toasted Almonds, Feta Cheese and Aged Balsamic Syrup",
+                        "description":"",
+                        "wine_pairing":"St. Supery Sauvignon Blanc, Napa 2016",
+                        "wine_price":9
+                    }
+                ],
+                "second_course":[
+                    {
+                        "main":"Sea Salt Crusted Prime Rib, Texas Sweet Potato-Bacon Grits, Roasted Shallot Au Jus",
+                        "description":"",
+                        "wine_pairing":"The Velvet Devil by Charles Smith Merlot, Mattawa, WA 2016",
+                        "wine_price":9
+                    },{
+                        "main":"Chimichurri Crusted Salmon, Roasted Cauliflower “Risotto” and Spanish Pimentos",
+                        "description":"",
+                        "wine_pairing":"Parducci “Small Lot Blend” Pinot Noir, California 2015",
+                        "wine_price":9
+                    },{
+                        "main":"Mongolian Marinated Pork Chops, Ginger Lime Butter, Organic Carrot Puree",
+                        "description":"",
+                        "wine_pairing":"Pedroncelli Zinfandel, Sonoma 2015",
+                        "wine_price":9                 
+                    },{
+                        "main":"40-day aged Filet Mignon, Foie Gras Butter Port Demi and Truffle Leek Potatoes – Add $6",
+                        "description":"",
+                        "extra_price":6,
+                        "wine_pairing":"Aquinas Cabernet Sauvignon, North Coast 2015",
+                        "wine_price":9
+                    }
+                ],
+                "third_course":[
+                    {
+                        "main":"Meyer Lemon Crème Brûlée",
+                        "description":"",
+                        "wine_pairing":"Loosen Bros. 'Dr. L' Riesling, Mosel, Germany 2016",
+                        "wine_price":9
+                    },{
+                        "main":"Warm Texas Peach and Wild Blue Berry Butter Cake with Peach Caramel Sauce",
+                        "description":"",
+                        "wine_pairing":"Saracco Moscato d’Asti, Piedmont, Italy 2016",
+                        "wine_price":9
+                    },{
+                        "main":"Triple Chocolate and Banana Bread Pudding with Dark Rum Sauce",
+                        "description":"",
+                        "wine_pairing":"Fonseca “Bin 27” Porto, Portugal NV",
+                        "wine_price":9
+                    }
+                ],
+                "fourth_course":[
+                    {
+                        "main":"Prime Beef and Pork Belly Potstickers with Shiitake Port Sauce",
+                        "description":"",
+                        "price":7,
+                        "wine_pairing":"",
+                        "wine_price":""
+                    }
+                ]
+            }, 
+            "lunch_menu":{
+                "first_course": [
+                    {
+                        "main":"",
+                        "description":"",
+                        "wine_pairing":"",
+                        "wine_price":""
+                    }
+                ], 
+                "second_course": [
+                    {
+                        "main":"",
+                        "description":"",
+                        "wine_pairing":"",
+                        "wine_price":""
+                    }
+                ]
+            }, 
+            "price": "$39", 
+            "_4th_course": true, 
+            "participating_week": "3 Week",
+            "one_price_wine_pairing":24
+        },{
+		    "phone": "972-503-3474", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Addison", 
+		        "full": "Addison, Texas 75001"
+		    }, 
+		    "name": "Chamberlain's Fish Market Grill", 
+		    "first_address": "4525 Beltline Road", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		        "first_course":[
+		            {
+		                "main":"Organic Tomato and Carrot Bisque, Charred Corn and Smoked Cheddar Fritter, Truffle Chive Oil ",
+		                "description":"",
+		                "wine_pairing":"Sartori Pinot Grigio, Grave, Italy 2016",
+		                "wine_price":9
+		            },{
+		                "main":"Texas Watermelon Caprese Salad, Baby Arugula, Medjool Date Balsamic Reduction",
+		                "description":"",
+		                "wine_pairing":"Chateau Souverain Chardonnay, Sonoma 2014",
+		                "wine_price":9
+		            },{
+		                "main":"Boston Lettuce Wedge Salad, Spiced Pumpkin Seeds, Candied Pork Belly, Baby Heirloom Tomatoes, Blue Cheese Buttermilk Tarragon Dressing",
+		                "description":"",
+		                "wine_pairing":"Pine Ridge Chenin Blanc/Viognier, Napa 2016",
+		                "wine_price":9
+		            }
+		        ],
+		        "second_course":[
+		            {
+		                "main":"Wood Grilled Filet Mignon, Mezzi Rigatoni, Applewood Bacon, Cabernet Braised Mushrooms and Pecorino Romano",
+		                "description":"",
+		                "wine_pairing":"Aquinas Cabernet Sauvignon, North Coast 2015",
+		                "wine_price":9
+		            },{
+		                "main":"Grilled Cajun Spiced Jumbo Shrimp, Stone Ground Grits, Crispy Brussel Sprouts, Tabasco Lime Butter",
+		                "description":"",
+		                "wine_pairing":"Chateau St. Jean Chardonnay, Sonoma 2014",
+		                "wine_price":9
+		            },{
+		                "main":"Red Miso Glazed Salmon, Garlic Sesame Rice, Baby Bok Choy, Truffle Citrus Ponzu",
+		                "description":"",
+		                "wine_pairing":"Mark West Pinot Noir, California 2015",
+		                "wine_price":9
+		            },{
+		                "main":"Artichoke Leek Crusted Alaskan Halibut, Grilled Asparagus, Roasted Onion Potatoes, Lobster Newberg Sauce – Add $10",
+		                "extra_price":10,
+		                "description":"",
+		                "wine_pairing":"Rodney Strong “Chalk Hill” Chardonnay, Sonoma 2015",
+		                "wine_price":9
+		            }
+		        ],
+		        "third_course":[
+		            {
+		                "main":"Warm Glazed Grilled Peaches, Brioche French Toast and Maple Walnut Ice Cream",
+		                "description":"",
+		                "wine_pairing":"Saracco Moscato d’Asti, Piedmont, Italy 2016",
+		                "wine_price":9
+		            },{
+		                "main":"Triple Chocolate Peanut Butter Pie, Fresh Berry Sauce",
+		                "description":"",
+		                "wine_pairing":"Fonseca “Bin 27” Porto, Portugal NV",
+		                "wine_price":9
+		            },{
+		                "main":"Passion Fruit Citrus Pie with Raspberry Sauce",
+		                "description":"",
+		                "wine_pairing":"oosen Bros. 'Dr. L' Riesling, Mosel, Germany 2016",
+		                "wine_price":9
+		            }
+		        ],
+		        "fourth_course":[
+		            {
+		                "main":"Bison and Prime Beef Gyoza, Foie Gras Ponzu, Napa Slaw",
+		                "description":"",
+		                "price":7,
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ]
+		    }, 
+		    "lunch_menu":{
+		        "first_course": [
+		            {
+		                "main":"Seafood Gumbo with Shrimp, Crab, Sausage and Rice",
+		                "description":"",
+		                "wine_pairing":"Pine Ridge Chenin Blanc/Viognier, Napa 2016",
+		                "wine_price":9
+		            },{
+		                "main":"Texas Watermelon Caprese Salad, Baby Arugula, Medjool Date Balsamic Reduction",
+		                "description":"",
+		                "wine_pairing":"Chateau Souverain Chardonnay, Sonoma 2014",
+		                "wine_price":9
+		            },{
+		                "main":"Fish Market Clam, Crab and Corn Chowder",
+		                "description":"",
+		                "wine_pairing":"Sartori Pinot Grigio, Grave, Italy 2016",
+		                "wine_price":9
+		            }
+		        ], 
+		        "second_course": [
+		            {
+		                "main":"Red Miso Glazed Salmon, Garlic Sesame Rice, Baby Bok Choy, Truffle Citrus Ponzu",
+		                "description":"",
+		                "wine_pairing":"Mark West Pinot Noir, California 2015",
+		                "wine_price":9
+		            },{
+		                "main":"Grilled Cajun Spiced Jumbo Shrimp, Stone Ground Grits, Crispy Brussel Sprouts, Tabasco Lime Butter",
+		                "description":"",
+		                "wine_pairing":"St. Supery Sauvignon Blanc, Napa 2016",
+		                "wine_price":9
+		            },{
+		                "main":"Steak Grind Meatloaf with Roasted Onion Potatoes and Port Wine Sauce",
+		                "description":"",
+		                "wine_pairing":"Aquinas Cabernet Sauvignon, North Coast 2015",
+		                "wine_price":9
+		            }
+		        ]
+		    },
+		    "one_price_wine_pairing":24,
+		    "one_price_wine_pairing_lunch":16,
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-261-4500", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "CBD Provisions", 
+		    "first_address": "1530 Main Street", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-526-1170", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75205"
+		    }, 
+		    "name": "Cafe Pacific", 
+		    "first_address": "24 Highland Park Village", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		        "first_course":[
+		            {
+		                "main":"New England Style Clam Chowder",
+		                "description":"Creamy clam broth, diced potatoes, chopped fresh clams, parsley",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Mixed Green Salad",
+		                "description":"Toasted pecans, feta, cherry tomato, kalamata olives, carrots, house dressing",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Heirloom Caprese Salad",
+		                "description":"Raindrop Farms Heirloom tomatoes, Mozzarella di Bufala, basil, balsamic",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Soup du Jour",
+		                "description":"Chef’s daily inspiration",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "second_course":[
+		            {
+		                "main":"Lemon Sole Almandine",
+		                "description":"Almond crusted Sole, sautéed julienne vegetables, lemon beurre blanc",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Short Smoked Salmon",
+		                "description":"Skuna Bay salmon, quickly smoked, sesame scented spinach, pommery aioli",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Pan Seared Bone-In Chicken Breast",
+		                "description":"Springer Farms, Israeli couscous, roasted red pepper beurre blanc",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Prime Chopped Steak",
+		                "description":"10oz. of our Certified Prime special blend, wild mushroom demi glace",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Café Pacific Oriental Salad",
+		                "description":"Marinated chicken, iceberg, almonds, scallions, rice noodles, ginger dressing",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "third_course":[
+		            {
+		                "main":"Café Pacific Classic Pecan Ball",
+		                "description":"Vanilla bean ice cream, toasted pecans, house-made fudge sauce, tuile cookie",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"NYC Cheesecake",
+		                "description":"Bakery fresh New York City cheesecake, fresh cream",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Italian Tiramisu",
+		                "description":"Rum infused espresso & chocolate sauce",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "fourth_course":[
+		            {
+		                "main":"",
+		                "description":"",
+		                "price":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ]
+		    }, 
+		    "lunch_menu":{
+		        "first_course": [
+		            {
+		                "main":"",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ], 
+		        "second_course": [
+		            {
+		                "main":"",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ]
+		    },
+		    "one_price_wine_pairing":"",
+		    "one_price_wine_pairing_lunch":"",
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-267-5700", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75252"
+		    }, 
+		    "name": "Cadot Restaurant", 
+		    "first_address": "18111 Preston Rd.", 
+		    "cuisine": [
+		        "French", 
+		        "European"
+		    ], 
+		    "menu": {
+		        "first_course":[
+		            {
+		                "main":"Watermelon Salad",
+		                "description":"Heirloom Cherry Tomatoes, Candied Ginger, Basil Chiffonade & Balsamic Reduction",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Bibb lettuce Salad",
+		                "description":"Candied Walnuts, Blue Cheese, Granny Smith Apples Served with Mustard Vinaigrette ",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "second_course":[
+		            {
+		                "main":"Beef Bourguignon",
+		                "description":"Served with Pappardelle ",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Chicken Marsala",
+		                "description":"Mousseline Potatoes & Green Beans",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Lemon Sole Almondine",
+		                "description":"Baby Spinach & Fingerling Potatoes",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "third_course":[
+		            {
+		                "main":"Strawberry Crème Brûlée ",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Chocolate Profiteroles",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Opera cake",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "fourth_course":[
+		            {
+		                "main":"Wild Mushroom Brie Soup",
+		                "description":"",
+		                "price":10,
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ]
+		    }, 
+		    "lunch_menu":{
+		        "first_course": [
+		            {
+		                "main":"Lentil Soup",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ], 
+		        "second_course": [
+		            {
+		                "main":"Chicken Crêpes ",
+		                "description":"Mushroom Velouté & Garden Vegetables",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Jumbo Lump Crab Cake ",
+		                "description":"Bed of Risotto with Balsamic and Orange Reduction Topped with Fried Spinach ",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Parisian Steak",
+		                "description":"Sunny Side Egg, Mashed Potatoes, Green Beans & Bordelaise Sauce ",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "third_course": [
+		            {
+		                "main":"Strawberry Crème Brûlée Tarte",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Profiteroles with Vanilla Ice Cream & Chocolate Sauce",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ]
+		    },
+		    "one_price_wine_pairing":{
+		        "price":65,
+		        "quantity":2,
+		        "selection":[
+		            "Rose d'Anjou",
+		            "Côtes du Rhône",
+		            "Bordeaux Rouge",
+		            "Chardonnay",
+		            "Bordeaux Blanc"
+		        ]
+		    },
+		    "one_price_wine_pairing_lunch":false,
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "3 Week"
+		},{
+		    "phone": "972-863-7100", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75226"
+		    }, 
+		    "name": "Zatar Lebanese Tapas & Bar", 
+		    "first_address": "2825 Commerce Street", 
+		    "cuisine": [
+		        "Global"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-744-3287", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75202"
+		    }, 
+		    "name": "YO Ranch Steakhouse, The", 
+		    "first_address": "702 Ross Ave.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "first_course":[
+		            {
+		                "main":"Rattlesnake Chili Pie",
+		                "description":"Texas chili made with rattlesnake sausage and layered with fried tortilla strips, sour cream, cheddar cheese, and Pico de Gallo",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Antelope Carpaccio",
+		                "description":"Nilgai South Texas antelope loin sliced thin and served raw - Baby arugula with smoked maple Dijon vinaigrette, parmesan, and focaccia toast points",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Corn Bisque",
+		                "description":"Velvety cream corn soup made with fresh sweet smoked corn topped with wild boar bacon, cotija cheese, and cilantro oil ",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Y.O. House Salad",
+		                "description":" Field greens, caramelized pecans, green apples, local goat cheese, and tomatoes with a garlic cilantro vinaigrette",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Nashville Hot Fried Oysters",
+		                "description":"Chicken fried oysters tossed in sweet and spicy chili oil on bread and butter pickle chips and topped with blue cheese crumbles",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Deep Ellum Pimento Cheese Fritters",
+		                "description":"Local ancho chili caciotta, sharp cheddar, and Chihuahua cheeses blended with roasted red peppers, panko breaded and fried golden brown, served with house Tabasco jam",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "second_course":[
+		            {
+		                "main":"Petite Filet",
+		                "description":"Roasted bone marrow butter with mashed potatoes and veggies",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Double Cut Pork Chop",
+		                "description":"Brined, rubbed, and slow roasted - Served with Tabasco cheesy grits and collard greens",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"44 Farms Ribeye Au Poivre ",
+		                "description":"Black pepper crusted with green peppercorn cognac cream -Mashed potatoes and veggies",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Chicken Fried Lobster",
+		                "description":"Lemon caper beurre blanc with mashed potatoes and veggies ",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Texas Hill Country Plate ",
+		                "description":"Venison chop and chicken fried quail with morel brandy cream- Sautéed spinach",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }{
+		                "main":"Zucchini Noodles(vegan)",
+		                "description":"Spiral zucchini, red bell pepper, tomatoes, fresh basil, and garlic - Tossed with a coconut red curry broth and topped with toasted pine nuts",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Red Chili Rubbed Salmon",
+		                "description":"Sundried tomato, roasted garlic, cilantro butter wild rice and veggies",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "third_course":[
+		            {
+		                "main":"Flourless Chocolate Cake spiked with Chambord and served with Raspberry Coulis",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Prickly Pear Sorbet and Fresh Berries",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            },{
+		                "main":"Buttermilk Lemon Pie",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ],
+		        "fourth_course":[
+		            {
+		                "main":"",
+		                "description":"",
+		                "price":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ]
+		    }, 
+		    "lunch_menu":{
+		        "first_course": [
+		            {
+		                "main":"",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ], 
+		        "second_course": [
+		            {
+		                "main":"",
+		                "description":"",
+		                "wine_pairing":"",
+		                "wine_price":""
+		            }
+		        ]
+		    },
+		    "one_price_wine_pairing":false,
+		    "one_price_wine_pairing_lunch":false, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-899-9820", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Flower Mound", 
+		        "full": "Flower Mound, Texas 75028"
+		    }, 
+		    "name": "Yellow Rose Steak & Chop House", 
+		    "first_address": "890 Parker Square.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		    "first_course":[
+		        {
+		            "main":"Beef Tenderloin Soup",
+		            "description":"",
+		            "wine_pairing":"Geyser Peak, Zinfandel, California",
+		            "wine_price":"",
+		            "whiskey_pairing":"Russells Reserve 10 yr"
+		        },{
+		            "main":"Grilled Caesar Salad",
+		            "description":"",
+		            "wine_pairing":"Josh, Chardonnay, California",
+		            "wine_price":"",
+		            "whiskey_pairing":"Redemption High Rye Bourbon"
+		        }
+		    ],
+		    "second_course":[
+		        {
+		            "main":"Crab Stuffed Salmon",
+		            "description":"Creamy Dill Sauce; served with parmesan red potatoes & green beans and carrots; add 8oz Lobter Tail for $28",
+		            "wine_pairing":"Montasolo, Pinot Grigio, Italy",
+		            "wine_price":"",
+		            "whiskey_pairing":"Kooper Family Rye"
+		        },{
+		            "main":"10oz Prime Rib",
+		            "description":"Au jus, creamy horseradish; served with parmesan red potatoes & green beans and carrots; add 8oz Lobter Tail for $28",
+		            "wine_pairing":"Alberti 154, Malbec, Argentina",
+		            "wine_price":"",
+		            "whiskey_pairing":"Legacy Small Batch"
+		        },{
+		            "main":"Chicken & Shrimp",
+		            "description":"Lemon Caper Sauce; served with parmesan red potatoes & green beans and carrots; add 8oz Lobter Tail for $28",
+		            "wine_pairing":"Trivento, Amado Sur, Argentina",
+		            "wine_price":"",
+		            "whiskey_pairing":"Yellow Rose Single Malt"
+		        },{
+		            "main":"Bone-in center cut Pork Chop",
+		            "description":"Homemade Apple Sauce; served with parmesan red potatoes & green beans and carrots; add 8oz Lobter Tail for $28",
+		            "wine_pairing":"The Crossings, Sauv Blanc, Marlborough, NZ",
+		            "wine_price":"",
+		            "whiskey_pairing":"Witherspoon's Bourbon"
+		        },{
+		            "main":"6oz Certified Angus Filet Mignon",
+		            "description":"Demi Glace; served with parmesan red potatoes & green beans and carrots; add 8oz Lobter Tail for $28",
+		            "wine_pairing":"Josh, Cabernet Sauvignon, California",
+		            "wine_price":"",
+		            "whiskey_pairing":"Bulleit Bourbon XO, Aged an extra 6 months in house"
+		        }
+		    ],
+		    "third_course":[
+		        {
+		            "main":"Cheesecake",
+		            "description":"Wild Hibiscus Cherry Drizzle",
+		            "wine_pairing":"Bergmann Slate Riesling, Mosel, Germany",
+		            "wine_price":"",
+		            "whiskey_pairing":"Yellow Rose Blended"
+		        },{
+		            "main":"Bread Pudding",
+		            "description":"Bourbon Caramel Sauce, Whipped Cream",
+		            "wine_pairing":"1000 Stories, Bourbon Barrel Aged Zinfandel, California",
+		            "wine_price":"",
+		            "whiskey_pairing":"Balcones Brimstone"
+		        }
+		    ],
+		    "fourth_course":[
+		        {
+		            "main":"",
+		            "description":"",
+		            "price":"",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        }
+		    ]
+		}, 
+		"lunch_menu":{
+		    "first_course": [
+		        {
+		            "main":"Beef Tenderloin Soup",
+		            "description":"",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"Grilled Caesar Salad",
+		            "description":"",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        }
+		    ], 
+		    "second_course": [
+		        {
+		            "main":"Crab Cake Sandwich",
+		            "description":"Ciabatta bread, fresh spinach, tomato, jalapeno remoulade, capers;served with a side of fries or salad",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"Cheddar Bacon Stuffed Burger",
+		            "description":"Spicy aioli, lettuce, tomato, red onion; served with a side of fries or salad",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"Grilled Chicken Sandwich",
+		            "description":"Grilled chicken breast topped with applewood smoked bacon, melted Swiss cheese & honey mustard; served with a side of fries or salad",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"Prime Rib French Dip",
+		            "description":"Sliced prime rib served on French bread with Au just dipping sauce and Creamy Horseradish Sauce; served with a side of fries or salad",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        }
+		    ]
+		},
+		"one_price_wine_pairing":25,
+		"one_price_wine_pairing_lunch":false,
+		"one_price_whiskey_pairing":20,
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "3 Weeks"
+		},{
+		    "phone": "817-984-1110", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas 76102"
+		    }, 
+		    "name": "Waters Restaurant", 
+		    "first_address": "301 Main St.", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		    "first_course":[
+		        {
+		            "main":"BABY GREENS SALAD",
+		            "description":"Heirloom Tomato, Cucumber, Crumbled Feta, Corn Bread Croutons, Balsamic Vinaigrette",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"BONNELL’S SIGNATURE SEAFOOD GUMBO",
+		            "description":"",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"CAESAR",
+		            "description":"Corn Bread Croutons, Parmesan",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        }
+		    ],
+		    "second_course":[
+		        {
+		            "main":"WILD GULF SHRIMP & GRITS",
+		            "description":"White Cheddar Grits, Green Chili Gravy",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"GEORGE’S BANK SCALLOPS",
+		            "description":"Risotto 'Jambalaya', Lemon Butter",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"CAJUN SEARED FAROE ISLAND SALMON",
+		            "description":"Dirty Rice, Scampi Butter",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"GRILLED FILET MIGNON",
+		            "description":"Roasted Red Potatoes, Peppercorn Cream",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        }
+		    ],
+		    "third_course":[
+		        {
+		            "main":"CINNAMON APPLE CRUMBLE",
+		            "description":"Vanilla Ice Cream",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"CARAMELIZED BANANA SUNDAE",
+		            "description":"Vanilla Ice Cream, Amaretto Chocolate Sauce",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        },{
+		            "main":"CHOCOLATE ICE CREAM SANDWICH",
+		            "description":"Triple Chocolate Ice Cream, Chocolate-Chocolate Chip Cookie",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        }
+		    ],
+		    "fourth_course":[
+		        {
+		            "main":"",
+		            "description":"",
+		            "price":"",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        }
+		    ]
+		}, 
+		"lunch_menu":{
+		    "first_course": [
+		        {
+		            "main":"",
+		            "description":"",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        }
+		    ], 
+		    "second_course": [
+		        {
+		            "main":"",
+		            "description":"",
+		            "wine_pairing":"",
+		            "wine_price":""
+		        }
+		    ]
+		},
+		"one_price_wine_pairing":false,
+		"one_price_wine_pairing_lunch":false, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "3 Weeks"
+		},{
+		    "phone": "214-306-7111", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Water Grill", 
+		    "first_address": "1920 McKinney Ave.", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-764-0025", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas 76109"
+		    }, 
+		    "name": "Twigs Bistro and Martini Bar", 
+		    "first_address": "The Shops at Clearfork, 5289 Marathon Ave.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-377-3333", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75225"
+		    }, 
+		    "name": "True Food Kitchen", 
+		    "first_address": "8383 Preston Center Plaza, Ste. 100", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-943-6216", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, Texas 75024"
+		    }, 
+		    "name": "Toulouse Legacy West", 
+		    "first_address": "7301 Windrose Ave., Suite C150", 
+		    "cuisine": [
+		        "French/European"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-942-0988", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75208"
+		    }, 
+		    "name": "Tillman\u2019s Bishop Arts", 
+		    "first_address": "324 W. 7th St.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-403-0430", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, Texas 75093"
+		    }, 
+		    "name": "The Keg Steakhouse + Bar - Plano Keg", 
+		    "first_address": "6101 W. Park Blvd.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-556-9188", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Irving", 
+		        "full": "Irving, Texas 75039"
+		    }, 
+		    "name": "The Keg Steakhouse + Bar - Las Colinas Keg", 
+		    "first_address": "859 W. John Carpenter Freeway", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-465-3700", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Arlington", 
+		        "full": "Arlington,Texas 76018"
+		    }, 
+		    "name": "The Keg Steakhouse + Bar - Arlington Keg", 
+		    "first_address": "4001 Arlington Highlands Blvd.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-459-1601", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75240"
+		    }, 
+		    "name": "The Grill on the Alley", 
+		    "first_address": "13270 Dallas Pkwy.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-430-8185", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Roanoke", 
+		        "full": "Roanoke, Texas 76262"
+		    }, 
+		    "name": "The Classic Cafe at Roanoke", 
+		    "first_address": "504 N. Oak St.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-398-2221", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, Texas 75034"
+		    }, 
+		    "name": "The Capital Grille - Plano", 
+		    "first_address": "7300 Dallas Parkway", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-348-9200", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas 76102"
+		    }, 
+		    "name": "The Capital Grille - Fort Worth", 
+		    "first_address": "800 Main Street", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-303-0500", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "The Capital Grille - Dallas", 
+		    "first_address": "500 Crescent Court, Suite 135", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-882-9500", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas76102"
+		    }, 
+		    "name": "Texas de Brazil", 
+		    "first_address": "101 N. Houston St.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-720-1414", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Texas de Brazil", 
+		    "first_address": "2727 Cedar Springs Rd.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-385-1000", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Addison", 
+		        "full": "Addison, Texas 75001"
+		    }, 
+		    "name": "Texas de Brazil", 
+		    "first_address": "15101 Addison Rd.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-220-2828", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Tei An", 
+		    "first_address": "1722 Routh St. #110", 
+		    "cuisine": [
+		        "Chinese/Japanese/Fusion"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-789-9558", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75254"
+		    }, 
+		    "name": "Table 13", 
+		    "first_address": "4812 Beltline Rd.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "469-952-5150", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "McKinney", 
+		        "full": "McKinney, Texas 75069"
+		    }, 
+		    "name": "Sugarbacon Proper Kitchen", 
+		    "first_address": "216 W. Virginia", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-596-7100", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano,Texas 75093"
+		    }, 
+		    "name": "Steve Fields Steak & Lobster Lounge", 
+		    "first_address": "5013 W. Park Blvd.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-219-9908", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75219"
+		    }, 
+		    "name": "STEEL Sushi Restaurant & Lounge", 
+		    "first_address": "3180 Welborn St.", 
+		    "cuisine": [
+		        "Chinese/Japanese/Fusion"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-550-6966", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75206"
+		    }, 
+		    "name": "Stampede 66 by Stephan Pyles", 
+		    "first_address": "1717 McKinney Ave., Suite 100", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-826-0940", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75206"
+		    }, 
+		    "name": "St. Martin's Wine Bistro", 
+		    "first_address": "3020 Greenville Ave.", 
+		    "cuisine": [
+		        "French/European"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-523-6786", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Richardson", 
+		        "full": "Richardson,Texas 75082"
+		    }, 
+		    "name": "Silver Fox Steakhouse- Richardson", 
+		    "first_address": "3650 Shire Blvd.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-618-5220", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Frisco", 
+		        "full": "Frisco, Texas 75034"
+		    }, 
+		    "name": "Silver Fox Steakhouse- Frisco", 
+		    "first_address": "1303 Legacy Drive.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-332-9060", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas76107"
+		    }, 
+		    "name": "Silver Fox Steakhouse- Fort Worth", 
+		    "first_address": "1651 S. University Dr.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-761-7479", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75207"
+		    }, 
+		    "name": "SER Steak + Spirits", 
+		    "first_address": "2201 N. Stemmons Freeway, 27th Floor", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-361-5252", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX 75225"
+		    }, 
+		    "name": "Seasons52-Northpark", 
+		    "first_address": "8687 N. Central Expressway, Suite B307", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-312-8852", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, TX 75024"
+		    }, 
+		    "name": "Seasons52- Plano", 
+		    "first_address": "7300 Lone Star Dr., Suite 100", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-306-5596", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX 75201"
+		    }, 
+		    "name": "Savor Gastropub - Dallas", 
+		    "first_address": "2000 Woodall Rodgers Freeway", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-252-9604", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75204"
+		    }, 
+		    "name": "Salum Restaurant", 
+		    "first_address": "4152 Cole Ave., Suite 103", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-782-9807", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Saint Ann Restaurant & Bar", 
+		    "first_address": "2501 N. Harwood St.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-922-7062", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Ruth's Chris Steak House", 
+		    "first_address": "1900 Cedar Springs Rd., Dallas, TX", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-348-0080", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas 76102"
+		    }, 
+		    "name": "Ruth's Chris Steak House", 
+		    "first_address": "813 Main St.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-250-2244", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75287"
+		    }, 
+		    "name": "Ruth's Chris Steak House", 
+		    "first_address": "17840 Dallas Parkway.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-473-6263", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, Texas 75093"
+		    }, 
+		    "name": "Roy's Restaurant", 
+		    "first_address": "2840 Dallas Parkway", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-807-2450", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75219"
+		    }, 
+		    "name": "Roux Bistro", 
+		    "first_address": "4218 Lemmon Ave.", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-744-1420", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75202"
+		    }, 
+		    "name": "RJ Mexican Cuisine", 
+		    "first_address": "1701 N. Market St. #102", 
+		    "cuisine": [
+		        "Mexican/Southwestern"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-801-5541", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Arlington", 
+		        "full": "Arlington, Texas 76011"
+		    }, 
+		    "name": "Restaurant506 At The Sanford House", 
+		    "first_address": "506 N. Center St.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-912-1510", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Southlake", 
+		        "full": "Southlake, Texas 76092"
+		    }, 
+		    "name": "Redrock Canyon Grill", 
+		    "first_address": "2221 E. Southlake Blvd., Suite 360,", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-335-3066", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Frisco", 
+		        "full": "Frisco, Texas 75033"
+		    }, 
+		    "name": "Randy's Steakhouse", 
+		    "first_address": "7026 Main St.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "940-442-6834", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Denton", 
+		        "full": "Denton, Texas 76201"
+		    }, 
+		    "name": "Queenie's Steakhouse", 
+		    "first_address": "115 E. Hickory St.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-720-5249", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Pyramid Restaurant At The Fairmont Dallas", 
+		    "first_address": "1717 Akard St.", 
+		    "cuisine": [
+		        "Global"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-539-1902", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Flower Mound", 
+		        "full": "Flower Mound, Texas 75028"
+		    }, 
+		    "name": "Prime Farm To Table Restaurant", 
+		    "first_address": "5810 Long Prairie Rd.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-989-0007", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas 76107"
+		    }, 
+		    "name": "Piola Italian Restaurant", 
+		    "first_address": "3700 Mattison Ave.", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-265-9174", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Arlington", 
+		        "full": "Arlington, Texas 76011"
+		    }, 
+		    "name": "Piccolo Mondo Italian Restaurant", 
+		    "first_address": "829 E. Lamar Blvd.", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-855-5151", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Perry's Steakhouse & Grille - Uptown Dallas", 
+		    "first_address": "2000 McKinney Ave. #100", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "682-477-2261", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Grapevine", 
+		        "full": "Grapevine, Texas 76051"
+		    }, 
+		    "name": "Perry's Steakhouse & Grille - Grapevine", 
+		    "first_address": "2400 W. State Hwy. 114", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-494-4645", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Frisco", 
+		        "full": "Frisco, Texas 75034"
+		    }, 
+		    "name": "Perry's Steakhouse & Grille - Frisco", 
+		    "first_address": "2440 Parkwood Blvd.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(469)375-5846", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX 75201"
+		    }, 
+		    "name": "Perle on Maple", 
+		    "first_address": "2927 Maple Ave.", 
+		    "cuisine": [
+		        "French/European"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-521-0116", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75219"
+		    }, 
+		    "name": "Paul Martin's American Grill", 
+		    "first_address": "3848 Oak Lawn Ave. Suite 210", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-366-2000", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75220"
+		    }, 
+		    "name": "Pappas Bros. Steakhouse", 
+		    "first_address": "10477 Lombardy Ln.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "Chinese,Japanese,Fusion", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75230"
+		    }, 
+		    "name": "Pakpao Thai Food \u2013 Preston Hollow\u200b", 
+		    "first_address": "7859 Walnut Hill Lane #150", 
+		    "cuisine": [
+		        "August13-September3", 
+		        "2018(3Weeks)"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-749-7002", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75207"
+		    }, 
+		    "name": "Pakpao Thai Food \u2013 Design District\u200b", 
+		    "first_address": "1628 Oak Lawn Ave, #120", 
+		    "cuisine": [
+		        "Chinese", 
+		        "Japanese", 
+		        "Fusion"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-484-3970", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75205"
+		    }, 
+		    "name": "Origin Kitchen + Bar", 
+		    "first_address": "4438 McKinney Ave., Ste. 150", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-759-2277", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75240"
+		    }, 
+		    "name": "Oceanaire Seafood Room", 
+		    "first_address": "13340 Dallas Parkway", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-965-0440", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Ocean Prime", 
+		    "first_address": "2101 Cedar Springs Rd.", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-712-9700", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75207"
+		    }, 
+		    "name": "OAK", 
+		    "first_address": "1628 Oak Lawn Ave., Suite 110", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-828-0095", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75206"
+		    }, 
+		    "name": "Nora Restaurant and Bar", 
+		    "first_address": "1928 Greenville Ave.", 
+		    "cuisine": [
+		        "Global"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-521-1800", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75219"
+		    }, 
+		    "name": "Nonna", 
+		    "first_address": "4115 Lomo Alto.", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-252-7000", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Nobu Dallas", 
+		    "first_address": "400 Cresent Court", 
+		    "cuisine": [
+		        "Chinese/Japanese/Fusion"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-741-6492", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75226"
+		    }, 
+		    "name": "Niwa Japanese BBQ", 
+		    "first_address": "2939 Main St.", 
+		    "cuisine": [
+		        "Chinese/Japan/Fusion"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-871-7444", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Nick & Sam's Steakhouse", 
+		    "first_address": "3008 Maple Ave.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "682-325-4046", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Colleyville", 
+		        "full": "Colleyville, Texas 76034"
+		    }, 
+		    "name": "Next Bistro", 
+		    "first_address": "5003 Colleyville Blvd.", 
+		    "cuisine": [
+		        "Global"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-871-8883", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Musume", 
+		    "first_address": "2330 Flora St. #100", 
+		    "cuisine": [
+		        "Chinese/Japanese/Fusion"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-741-2277", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Morton's The Steakhouse", 
+		    "first_address": "2222 McKinney Ave.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-877-3413", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas 76107"
+		    }, 
+		    "name": "Michaels Cuisine Restaurant & Bar", 
+		    "first_address": "3413 W. 7th St.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-403-7474", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, Texas 75093"
+		    }, 
+		    "name": "Mi Dia From Scratch", 
+		    "first_address": "3310 Dallas Parkway, Suite 105", 
+		    "cuisine": [
+		        "Mexican", 
+		        "Southwestern"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-381-1157", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Arlington", 
+		        "full": "Arlington, Texas 76006"
+		    }, 
+		    "name": "Mercury Chophouse- Arlington", 
+		    "first_address": "2221 E. Lamar Rd. Suite 910", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-336-4129", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas 76102"
+		    }, 
+		    "name": "Mercury Chophouse - Fort Worth", 
+		    "first_address": "525 Taylor Street", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-953-0917", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Mercat Bistro", 
+		    "first_address": "2501 N. Harwood St.", 
+		    "cuisine": [
+		        "French", 
+		        "European"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)239-6358", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX 75254"
+		    }, 
+		    "name": "Melting Pot Fondue Restaurant Addison", 
+		    "first_address": "4900 Beltline Rd., Ste. 200", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-472-9988", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Arlington", 
+		        "full": "Arlington, Texas 76018"
+		    }, 
+		    "name": "The Melting Pot Fondue Restaurant - Arlington", 
+		    "first_address": "4000 Five Points Blvd. Suite #119", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(469)680-5943", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75230"
+		    }, 
+		    "name": "Matchbox Vintage Pizza Bistro", 
+		    "first_address": "7859 Walnut Hill Ln. #140", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)443-4747", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75219"
+		    }, 
+		    "name": "Mansion (Rosewood) on Turtle Creek Restaurant", 
+		    "first_address": "2821 Turtle Creek Blvd.", 
+		    "cuisine": [
+		        "Global"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)251-6227", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Grapevine", 
+		        "full": "Grapevine, TX 76051"
+		    }, 
+		    "name": "Mac's on Main", 
+		    "first_address": "909 S. Main St., Suite 110", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)740-8810", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, TX 76164"
+		    }, 
+		    "name": "Lonesome Dove Fort Worth", 
+		    "first_address": "2406 N. Main Street.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)752-7500", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX 75226"
+		    }, 
+		    "name": "LOCAL Restaurant", 
+		    "first_address": "2936 Elm Street.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)503-6688", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75254"
+		    }, 
+		    "name": "Lawry's The Prime Rib", 
+		    "first_address": "14655 Dallas Parkway", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)248-1911", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75252"
+		    }, 
+		    "name": "Lavendou Bistro Proven\u00e7al", 
+		    "first_address": "19009 Preston Rd., Suite 200", 
+		    "cuisine": [
+		        "French/European"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)224-3152", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX 75219"
+		    }, 
+		    "name": "Landmark Restaurant at Warwick Melrose", 
+		    "first_address": "3015 Oak Lawn Ave.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)506-3000", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Irving", 
+		        "full": "Irving, TX75603"
+		    }, 
+		    "name": "Lamberti's Ristorante & Wine Bar", 
+		    "first_address": "7701 N. MacArthur Blvd.", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)281-9333", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Hurst", 
+		        "full": "Hurst, TX76054"
+		    }, 
+		    "name": "La Bistro Italian Grill", 
+		    "first_address": "722 Grapevine Highway", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)410-2221", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Southlake", 
+		        "full": "Southlake, TX 76092"
+		    }, 
+		    "name": "Kirby's Steakhouse", 
+		    "first_address": "3305 E. Highway 114", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)392-9663", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75254"
+		    }, 
+		    "name": "Kenny's Wood Fired Grill", 
+		    "first_address": "5000 Beltline Rd., Suite 775", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)521-4211", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75205"
+		    }, 
+		    "name": "Javier's Restaurant", 
+		    "first_address": "4912 Cole Ave.", 
+		    "cuisine": [
+		        "Mexican/Southwestern"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)716-2610", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Richardson", 
+		        "full": "Richardson, TX75082"
+		    }, 
+		    "name": "Jasper's Gourmet Backyard Cuisine - Richardson", 
+		    "first_address": "1251 State Street.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(469)229-9111", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, TX75024"
+		    }, 
+		    "name": "Jasper's Gourmet Backyard Cuisine - Plano", 
+		    "first_address": "7161 Bishop Rd., Suite G-1", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)443-5183", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75219"
+		    }, 
+		    "name": "Jalisco Norte", 
+		    "first_address": "3858 Oak Lawn Ave., Suite 470,", 
+		    "cuisine": [
+		        "Mexican/Southwestern"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)251-8798", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Southlake", 
+		        "full": "Southlake, TX76092"
+		    }, 
+		    "name": "il Calabrese Ristorante & Bar", 
+		    "first_address": "1281 E. State Hwy. 114", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-267-1776", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75287"
+		    }, 
+		    "name": "III Forks Steakhouse", 
+		    "first_address": "17776 Dallas Parkway", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)978-2583", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX 75202"
+		    }, 
+		    "name": "House of Blues Restaurant & Bar", 
+		    "first_address": "2200 N. Lamar St.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)386-0689", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75254"
+		    }, 
+		    "name": "Houlihan's Restaurant + Bar", 
+		    "first_address": "5225 Belt Line Road, Suite 220", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)877-3388", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, TX 76102"
+		    }, 
+		    "name": "Grace", 
+		    "first_address": "777 Main Street.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)503-7080", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75254"
+		    }, 
+		    "name": "Gorji", 
+		    "first_address": "5100 Beltline Rd., # 402", 
+		    "cuisine": [
+		        "Global"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(469)330-0900", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Richardson", 
+		        "full": "Richardson, TX75080"
+		    }, 
+		    "name": "GB Tumbleweeds", 
+		    "first_address": "2701 Custer Parkway., Ste. 700", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(469)606-1000", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, TX 75024"
+		    }, 
+		    "name": "Fogo de Ch\u00e3o Brazilian Steakhouse - Plano", 
+		    "first_address": "5908 Headquarters Dr., Suite K150", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)720-2777", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75204"
+		    }, 
+		    "name": "Fogo de Ch\u00e3o Brazilian Steakhouse - Dallas", 
+		    "first_address": "2619 McKinney Ave., Suite K200", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)503-7300", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Addison", 
+		        "full": "Addison, TX75001"
+		    }, 
+		    "name": "Fogo de Ch\u00e3o Brazilian Steakhouse- Addison", 
+		    "first_address": "4300 Beltline Rd.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)543-2141", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, TX 75024"
+		    }, 
+		    "name": "Fleming's Prime Steakhouse & Wine Bar", 
+		    "first_address": "7250 N. Dallas Parkway., Ste. 110, The Legacy Tower", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(682)707-3965", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, TX 76109"
+		    }, 
+		    "name": "Fixe Southern House", 
+		    "first_address": "The Shops at Clearfork, 5282 Marathon Ave.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)571-5784", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX 75207"
+		    }, 
+		    "name": "Five Sixty by Wolfgang Puck", 
+		    "first_address": "300 Reunion Blvd.", 
+		    "cuisine": [
+		        "Global"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)251-2525", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Grapevine", 
+		        "full": "Grapevine, TX 76051"
+		    }, 
+		    "name": "Ferrari's Italian Villa & Chop House- Grapevine", 
+		    "first_address": "1200 William D Tate", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-741-1986", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75207"
+		    }, 
+		    "name": "El Bolero Cocina Mexicana", 
+		    "first_address": "1201 Oak Lawn Ave, #160", 
+		    "cuisine": [
+		        "Mexican", 
+		        "Southwestern"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)336-8000", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, TX76107"
+		    }, 
+		    "name": "Eddie V's Prime Seafood - Fort Worth", 
+		    "first_address": "3100 W. 7th St., Suite 100", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)890-1500", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75219"
+		    }, 
+		    "name": "Eddie V's Prime Seafood - Dallas", 
+		    "first_address": "4023 Oak Lawn Ave., Suite #110", 
+		    "cuisine": [
+		        "Seafood"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)701-4409", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "McKinney", 
+		        "full": "McKinney, TX 75069"
+		    }, 
+		    "name": "\u00c9clair Bistro- McKinney", 
+		    "first_address": "216 East Virginia St.", 
+		    "cuisine": [
+		        "French", 
+		        "European"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(214)550-9500", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75228"
+		    }, 
+		    "name": "Dragonfly at Hotel ZaZa", 
+		    "first_address": "2332 Leonard St.", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(469)458-6623", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75201"
+		    }, 
+		    "name": "Dolce Riviera", 
+		    "first_address": "2950 N. Harwood St., Suite 115", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(972)807-6152", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, TX75024"
+		    }, 
+		    "name": "Del Frisco's Grille- Uptown Dallas", 
+		    "first_address": "3232 McKinney Ave, Suite 175", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)887-9900", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, TX76102"
+		    }, 
+		    "name": "Del Frisco's Grille - Sundance Square", 
+		    "first_address": "154 East 3rd Street", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(817)410-3777", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Southlake", 
+		        "full": "Southlake, TX 76092"
+		    }, 
+		    "name": "Del Frisco's Grille - Southlake", 
+		    "first_address": "1200 E Southlake Blvd", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "(469)661-8012", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, TX75024"
+		    }, 
+		    "name": "Del Frisco's Grille - Shops at Legacy", 
+		    "first_address": "7200 Bishop Drive, Suite D-9", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-312-9115", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, TX75024"
+		    }, 
+		    "name": "Del Frisco's Double Eagle Steakhouse Plano", 
+		    "first_address": "5905 Legacy Dr., Ste. A120", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-877-3999", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas 76102"
+		    }, 
+		    "name": "Del Frisco's Double Eagle Steakhouse - Fort Worth", 
+		    "first_address": "812 Main Street", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-490-9000", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Del Frisco's Double Eagle Steakhouse - Dallas", 
+		    "first_address": "2323 Olive Street", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-387-3333", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Frisco", 
+		        "full": "Frisco, Texas 75034"
+		    }, 
+		    "name": "Dee Lincoln Prime", 
+		    "first_address": "6670 Winning Drive", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-805-4590", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Plano", 
+		        "full": "Plano, Texas 75024"
+		    }, 
+		    "name": "Bulla Gastrobar", 
+		    "first_address": "6007 Legacy Drive, Suite 180", 
+		    "cuisine": [
+		        "Global"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-705-7775", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Frisco", 
+		        "full": "Frisco, Texas 75034"
+		    }, 
+		    "name": "Bonnie Ruth's Neighborhood Bistro", 
+		    "first_address": "6959 Lebanon Road", 
+		    "cuisine": [
+		        "French", 
+		        "European"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-738-5489", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Fort Worth", 
+		        "full": "Fort Worth, Texas 76109"
+		    }, 
+		    "name": "Bonnell's Fine Texas Cuisine", 
+		    "first_address": "4259 Bryant Irvin Road", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "469-208-7977", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Irving", 
+		        "full": "Irving, Texas 75039"
+		    }, 
+		    "name": "Boi Na Braza - Las Colinas", 
+		    "first_address": "310 W. Las Colinas Blvd. Suite 130", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "817-251-9881", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Grapevine", 
+		        "full": "Grapevine, Texas 76051"
+		    }, 
+		    "name": "Boi Na Braza - Grapevine", 
+		    "first_address": "4025 William D Tate Ave.", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-420-3900", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75205"
+		    }, 
+		    "name": "Bistro 31", 
+		    "first_address": "87 Highland Park Village, Suite 200", 
+		    "cuisine": [
+		        "French/European"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-318-0515", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Highland Village", 
+		        "full": "Highland Village, Texas 75077"
+		    }, 
+		    "name": "Bistecca - An Italian Steakhouse", 
+		    "first_address": "2300 Highland Village Road, Suite 500", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-474-8844", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Richardson", 
+		        "full": "Richardson, Texas 75081"
+		    }, 
+		    "name": "Bawarchi Biryanis", 
+		    "first_address": "1801 N. Greenville Ave. Suite 250", 
+		    "cuisine": [
+		        "Indian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-267-4815", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75207"
+		    }, 
+		    "name": "Asador", 
+		    "first_address": "2222 N. Stemmons Freeway", 
+		    "cuisine": [
+		        "American"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-385-0800", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Addison", 
+		        "full": "Addison, Texas 75001"
+		    }, 
+		    "name": "Arthur's Steakhouse", 
+		    "first_address": "15175 Quorum Drive", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "469-209-0500", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Richardson", 
+		        "full": "Richardson, Texas 75082"
+		    }, 
+		    "name": "Apollonia's Italian Kitchen", 
+		    "first_address": "3610 Shire Blvd, Suite 108", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-261-4600", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75201"
+		    }, 
+		    "name": "Americano", 
+		    "first_address": "1530 Main Street", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$39", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-219-2201", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75219"
+		    }, 
+		    "name": "Al Biernat's Oak Lawn", 
+		    "first_address": "4217 Oak Lawn Avenue", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "972-239-3400", 
+		    "lunch": true, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75254"
+		    }, 
+		    "name": "Al Biernat's North", 
+		    "first_address": "5251 Spring Valley Road", 
+		    "cuisine": [
+		        "Steak"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": true, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-559-0325", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75209"
+		    }, 
+		    "name": "Adelmo's Ristorante", 
+		    "first_address": "5450 West Lovers Lane, Suite 225", 
+		    "cuisine": [
+		        "Italian"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		},{
+		    "phone": "214-559-3111", 
+		    "lunch": false, 
+		    "second_address": {
+		        "city": "Dallas", 
+		        "full": "Dallas, Texas 75205"
+		    }, 
+		    "name": "Abacus", 
+		    "first_address": "4511 McKinney Avenue", 
+		    "cuisine": [
+		        "Global"
+		    ], 
+		    "menu": {
+		        "second_course": [], 
+		        "fourth_course": [], 
+		        "first_course": [], 
+		        "third_course": []
+		    }, 
+		    "price": "$49", 
+		    "_4th_course": false, 
+		    "participating_week": "1 Week"
+		}
+	]
+}
